@@ -1,0 +1,23 @@
+﻿# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual env
+.venv/
+env/
+venv/
+
+# node / react
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# logs & misc
+*.log
+.DS_Store
